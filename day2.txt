@@ -1,5 +1,0 @@
-day 2 task
-added by v 1
-added by h 1
-Added by v 2
-added by h 2 and add new File1.txt
